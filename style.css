@@ -19,8 +19,8 @@ html , body{
     z-index: 99;
 }
 #cursor-blur{
-    height:420px;
-    width:420px;
+    height:200px;
+    width:220px;
     background-color: #96c11e41;
     border-radius: 50%;
     position: fixed;
@@ -267,4 +267,3 @@ video{
     position: relative;
     justify-content: center;
   }
-  
