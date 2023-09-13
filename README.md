@@ -1,1 +1,1 @@
-# Animeted_website
+# Animated_website
